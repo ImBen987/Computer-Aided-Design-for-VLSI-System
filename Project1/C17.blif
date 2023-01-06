@@ -1,0 +1,25 @@
+
+
+# ATPG -- Automatic Test Pattern Generation for
+#         Combinational Circuits
+# ATPG, Version 1.0, 4/29/86, Author: Ruey-sing Wei and Tony Ma
+.model C17.iscas
+.inputs a b c d e 
+.outputs h j
+.names b c d f
+101 1
+.names b c d g
+11- 1
+--1 1
+.names a f h
+1- 1
+-0 1
+.names e f g i
+110 1
+001 1
+.names a d h i j
+---0 1
+--1- 1
+10-- 1
+00-- 0
+.end
