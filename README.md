@@ -8,7 +8,7 @@ Project2: 完成以下兩種的scheduling
 
 Project3: Trace 一套進行Boolean最佳化的開源工具(Espresso)，並完成相關的研究報告
 
-Project4: 使用Espresso 進行AND, OR, and XOR 功能開發
+Project4: 使用Espresso 進行two-level Boolean function之AND, OR, and XOR 功能開發
 
 Project5: 使用hMETIS(開源的)與結合Project1資料結構進行Circuit partitioning 
 
