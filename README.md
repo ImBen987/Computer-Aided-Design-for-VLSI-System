@@ -1,6 +1,6 @@
 電腦輔助晶片設計 - Project簡介
 
-Project1: 實作資料結構，讀取blif檔根據內容描述電路完成，successor與predecessor並完成各點的Boolean leve
+Project1: 實作資料結構，讀取blif檔根據內容描述電路完成，successor與predecessor並完成各點的Boolean level
 
 Project2: 完成以下兩種的scheduling
 (1) The ML-RCS is the scheduling problem to minimize latency under resource constraints. 
