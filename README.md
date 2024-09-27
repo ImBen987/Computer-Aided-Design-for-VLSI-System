@@ -10,6 +10,6 @@ Project3: Trace 一套進行Boolean最佳化的開源工具(Espresso)，並完�
 
 Project4: 在Espresso中進行two-level Boolean function之AND, OR, and XOR 功能開發
 
-Project5: 使用hMETIS(開源的)與結合Project1資料結構進行Circuit partitioning 
+Project5: 使用hMETIS與Project1設計之資料結構進行Circuit partitioning 
 
 Project6: 使用 OpenROAD(一套開源的EDA tool)學習完整的IC Design後段製程步驟(Synthesis, Floorplanning, Placement, Clock Tree Synthesis, Finishing)五項流程的結果觀察與分析
